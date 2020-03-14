@@ -1,4 +1,7 @@
-# AG's blog on ecology - A personal walk down the ecology lane - Ecology = Humans + Earth
+# AG's blog on ecology 
+
+### A personal walk down the ecology lane
+### Ecology = Humans + Earth
 
 ## Why this blog?
 
