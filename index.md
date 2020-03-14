@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# AG's blog on ecology - A personal walk down the ecology lane - Ecology = Humans + Earth
 
-You can use the [editor on GitHub](https://github.com/gh4ag/ecology/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Why this blog?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I wanted to start a blog on ecology, to share my thoughts on a topic that, as I beleive, will be the center of our societies. Ecology applied to Humanity is, in a nutshell, the science of how human civilizations interact with their environements, and thus any ecosystem. Consequently, it also deals with the extraction and use of raw materials. Culture, economics, politcs, psychology, biology, physics and usages of technology are tools to study different aspects of the same topic, that I will therefore refer to, here, as Ecology.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gh4ag/ecology/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am begging you for your benevolence, and I hope you will find in my wrttings, beyond the mistakes that I could make, some elements that will help you shape your thoughts on one of the most important, if not the only one, topics of the next centuries.
